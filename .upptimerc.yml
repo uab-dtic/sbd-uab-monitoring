@@ -33,7 +33,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  baseUrl: /$REPO
+  baseUrl: /sbd-uab-monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Sabadell Campus external monitoring
   introTitle: "Monitoring public services on Sabadell Campus"
