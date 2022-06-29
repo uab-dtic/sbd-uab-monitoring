@@ -18,16 +18,8 @@ sites:
   - name: glpi
     url: https://glpi.sbd.uab.cat
     expectedStatusCodes:
-      - 302
+      - HTTP/2 302
       
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
