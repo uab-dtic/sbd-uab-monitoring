@@ -17,6 +17,8 @@ sites:
     url: https://gitlab.sbd.uab.cat
   - name: glpi
     url: https://glpi.sbd.uab.cat
+    expectedStatusCodes:
+      - 302
       
 
 status-website:
