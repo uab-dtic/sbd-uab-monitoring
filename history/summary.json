@@ -4,19 +4,19 @@
     "url": "https://25anyscampussabadell.uab.cat",
     "icon": "https://favicons.githubusercontent.com/25anyscampussabadell.uab.cat",
     "slug": "25anyscampussabadell",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 2265,
-    "timeDay": 2265,
-    "timeWeek": 2265,
-    "timeMonth": 2265,
-    "timeYear": 2265,
+    "status": "up",
+    "uptime": "96.53%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "96.53%",
+    "time": 2279,
+    "timeDay": 2279,
+    "timeWeek": 2279,
+    "timeMonth": 2279,
+    "timeYear": 2279,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 12
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://www.sbd.uab.cat",
     "icon": "https://favicons.githubusercontent.com/www.sbd.uab.cat",
     "slug": "chispa-www",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 874,
-    "timeDay": 874,
-    "timeWeek": 874,
-    "timeMonth": 874,
-    "timeYear": 874,
+    "status": "up",
+    "uptime": "96.53%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "96.53%",
+    "time": 869,
+    "timeDay": 869,
+    "timeWeek": 869,
+    "timeMonth": 869,
+    "timeYear": 869,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 12
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://docusid.sbd.uab.cat",
     "icon": "https://favicons.githubusercontent.com/docusid.sbd.uab.cat",
     "slug": "docusid",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 845,
-    "timeDay": 845,
-    "timeWeek": 845,
-    "timeMonth": 845,
-    "timeYear": 845,
+    "status": "up",
+    "uptime": "96.53%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "96.53%",
+    "time": 823,
+    "timeDay": 823,
+    "timeWeek": 823,
+    "timeMonth": 823,
+    "timeYear": 823,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 12
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://glpi.sbd.uab.cat/index.php?noAUTO=1",
     "icon": "https://favicons.githubusercontent.com/glpi.sbd.uab.cat",
     "slug": "glpi",
-    "status": "down",
-    "uptime": "10.01%",
-    "uptimeDay": "10.01%",
-    "uptimeWeek": "10.01%",
-    "uptimeMonth": "10.01%",
-    "uptimeYear": "10.01%",
-    "time": 878,
-    "timeDay": 878,
-    "timeWeek": 878,
-    "timeMonth": 878,
-    "timeYear": 878,
+    "status": "up",
+    "uptime": "9.68%",
+    "uptimeDay": "9.68%",
+    "uptimeWeek": "9.68%",
+    "uptimeMonth": "9.68%",
+    "uptimeYear": "9.68%",
+    "time": 1177,
+    "timeDay": 1177,
+    "timeWeek": 1177,
+    "timeMonth": 1177,
+    "timeYear": 1177,
     "dailyMinutesDown": {
-      "2022-06-29": 300
+      "2022-06-29": 312
     }
   }
 ]
