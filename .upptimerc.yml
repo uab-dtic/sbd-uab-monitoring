@@ -16,12 +16,8 @@ sites:
   - name: gitlab
     url: https://gitlab.sbd.uab.cat
   - name: glpi
-    url: https://glpi.sbd.uab.cat
-    maxRedirects: 1
-    expectedStatusCodes:
-      - 302
+    url: https://glpi.sbd.uab.cat/index.php?noAUTO=1
       
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
