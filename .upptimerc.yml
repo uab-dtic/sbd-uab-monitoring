@@ -13,6 +13,7 @@ sites:
     url: https://docusid.sbd.uab.cat
     expectedStatusCodes:
       - 401
+      - 302
   - name: gitlab
     url: https://gitlab.sbd.uab.cat
   - name: glpi
