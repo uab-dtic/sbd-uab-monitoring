@@ -1,7 +1,7 @@
 url: https://gitlab.sbd.uab.cat
-status: down
-code: 500
-responseTime: 1178
-lastUpdated: 2023-05-03T07:03:55.272Z
+status: up
+code: 200
+responseTime: 871
+lastUpdated: 2023-05-03T07:15:23.051Z
 startTime: Wed Jun 29 2022 05:41:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
